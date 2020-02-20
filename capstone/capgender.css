@@ -1,0 +1,27 @@
+body {background-color: darkgreen}
+h1 {
+    font-family: 'Indie Flower', cursive;
+    
+    color:#ff5800;
+    font-size:80pt;
+       text-shadow:5px 2px 4px #15dddd;
+    text-align: center;
+}
+h2 {
+    color: coral;
+}
+h3 {
+    color: coral
+}
+ui {
+    color: darksalmon
+}
+p {
+    display: inline;
+}a
+{  text-align: center;
+    color:chocolate;
+}
+p{
+   text-align: center;
+}

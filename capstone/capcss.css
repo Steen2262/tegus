@@ -1,0 +1,50 @@
+body {
+    background-color: darkgreen
+}
+h1 {
+    font-family: 'Indie Flower', cursive;
+    
+    color:#ff5800;
+    font-size:120px;
+       text-shadow:5px 2px 4px #15dddd;
+    text-align: center;
+
+    
+}
+h2 {
+    color: coral;
+    
+    }
+    
+}
+ui {
+    color: darksalmon
+}
+header {
+    background-image: image(baby.jpg)
+}
+a
+{  
+     
+    color:chocolate;
+}
+p{ display: inline;
+
+   
+}
+a{
+     background-color:#325032
+        
+}
+p{
+font-weight: 9
+}
+p{
+    display: inline-table;
+    text-align: center;
+    text-indent: 60px;
+}p{
+  
+       
+}
+
